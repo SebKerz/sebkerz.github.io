@@ -18,3 +18,5 @@ Human-robot collaboration and manipulation in uncertain environments
 - Discrete-time and Data-driven Reach Control Problem
 - Analysis of Reachable Sets in Data-driven Trajectory Prediction
 - Probabilistic Data-driven Predictive Control
+
+<embed src="https://sebkerz.github.io/ICML_poster_final.pdf" type="application/pdf"/>
